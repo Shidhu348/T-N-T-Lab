@@ -26,7 +26,7 @@ print(nplist[1])
 
 # Ans. II)
 print(nplist.dtype)
-print(np.shape)
+print(nplist.shape)
 
 print("\n")
 
